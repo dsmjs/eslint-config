@@ -4,3 +4,7 @@ repository:
   description: Shareable config for ESLint
   homepage: 'https://npm.im/@dsmjs/eslint-config'
   private: false
+teams:
+  - name: maintainers
+    permission: push
+
