@@ -4,7 +4,8 @@ repository:
   description: Shareable config for ESLint
   homepage: 'https://npm.im/@dsmjs/eslint-config'
   private: false
+  topics: hacktoberfest
+  
 teams:
   - name: maintainers
     permission: push
-
