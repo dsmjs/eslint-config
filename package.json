@@ -30,6 +30,6 @@
     "remark-cli": "^10.0.0"
   },
   "dependencies": {
-    "@form8ion/eslint-config": "1.9.0"
+    "@form8ion/eslint-config": "1.10.0"
   }
 }
